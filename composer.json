@@ -1,0 +1,9 @@
+{
+    "name": "andaniel05/mockup-twig",
+    "license": "MIT",
+    "require": {
+        "twig/twig": "^3.0",
+        "consolidation/robo": "~1",
+        "henrikbjorn/lurker": "1.*"
+    }
+}
