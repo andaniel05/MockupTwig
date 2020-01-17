@@ -1,6 +1,7 @@
 {
     "name": "andaniel05/mockup-twig",
     "license": "MIT",
+    "type": "project",
     "require": {
         "twig/twig": "^3.0",
         "consolidation/robo": "~1",
